@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02 - JS + CSS Clock/index-START.html" afterPath="$PROJECT_DIR$/02 - JS + CSS Clock/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03 - CSS Variables/index-START.html" afterPath="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 - JS + CSS Clock/index-START.html">
+        <entry file="file://$PROJECT_DIR$/03 - CSS Variables/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="90" column="53" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+            <state relative-caret-position="374">
+              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -55,6 +45,7 @@
       <list>
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html" />
         <option value="$PROJECT_DIR$/02 - JS + CSS Clock/index-START.html" />
+        <option value="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
       </list>
     </option>
   </component>
@@ -123,7 +114,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02 - JS + CSS Clock" />
+              <option name="myItemId" value="03 - CSS Variables" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -151,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="4562000" />
+      <workItem from="1484191479665" duration="6082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4562000" />
+    <option name="totallyTimeSpent" value="6082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -208,6 +199,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="90" column="53" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - CSS Variables/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
           <folding />
         </state>
       </provider>
