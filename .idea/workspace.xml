@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html" afterPath="$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06 - Type Ahead/index-START.html" afterPath="$PROJECT_DIR$/06 - Type Ahead/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +26,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html">
+        <entry file="file://$PROJECT_DIR$/06 - Type Ahead/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="401">
+              <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+              <folding>
+                <marker date="1485981114000" expanded="true" signature="1444:1616" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +50,7 @@
         <option value="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
         <option value="$PROJECT_DIR$/04 - Array Cardio Day 1/index-START.html" />
         <option value="$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html" />
+        <option value="$PROJECT_DIR$/06 - Type Ahead/index-START.html" />
       </list>
     </option>
   </component>
@@ -116,7 +119,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05 - Flex Panel Gallery" />
+              <option name="myItemId" value="06 - Type Ahead" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,6 +190,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="" />
@@ -194,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="11259000" />
+      <workItem from="1484191479665" duration="14334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11259000" />
+    <option name="totallyTimeSpent" value="14334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -273,9 +279,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        <state relative-caret-position="496">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - Type Ahead/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+          <folding>
+            <marker date="1485981114000" expanded="true" signature="1444:1616" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
