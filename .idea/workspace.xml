@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html">
+        <entry file="file://$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-FINISHED.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="412">
+              <caret line="124" column="42" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -61,6 +52,8 @@
         <option value="$PROJECT_DIR$/06 - Type Ahead/index-START.html" />
         <option value="$PROJECT_DIR$/07 - Array Cardio Day 2/index-START.html" />
         <option value="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
+        <option value="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
+        <option value="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
       </list>
     </option>
   </component>
@@ -129,7 +122,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08 - Fun with HTML5 Canvas" />
+              <option name="myItemId" value="10 - Hold Shift and Check Checkboxes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="20145000" />
+      <workItem from="1484191479665" duration="23102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20145000" />
+    <option name="totallyTimeSpent" value="23102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -325,6 +318,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 - Dev Tools Domination/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="124" column="42" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
           <folding />
         </state>
       </provider>
