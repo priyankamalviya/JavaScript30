@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11 - Custom Video Player/scripts.js" afterPath="$PROJECT_DIR$/11 - Custom Video Player/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,34 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/index.html">
+      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts-FINISHED.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/scripts-FINISHED.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="62" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +54,7 @@
         <option value="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
         <option value="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
         <option value="$PROJECT_DIR$/11 - Custom Video Player/scripts.js" />
+        <option value="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
       </list>
     </option>
   </component>
@@ -146,7 +123,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11 - Custom Video Player" />
+              <option name="myItemId" value="12 - Key Sequence Detection" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,12 +204,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="27666000" />
+      <workItem from="1484191479665" duration="28252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27666000" />
+    <option name="totallyTimeSpent" value="28252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -370,14 +347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/scripts-FINISHED.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -390,8 +359,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        <state relative-caret-position="526">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 - Custom Video Player/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding />
         </state>
       </provider>
