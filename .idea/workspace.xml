@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html">
+        <entry file="file://$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="502">
+              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -55,6 +56,8 @@
         <option value="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
         <option value="$PROJECT_DIR$/11 - Custom Video Player/scripts.js" />
         <option value="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
+        <option value="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" />
+        <option value="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" />
       </list>
     </option>
   </component>
@@ -123,7 +126,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="12 - Key Sequence Detection" />
+              <option name="myItemId" value="14 - JavaScript References VS Copying" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,12 +207,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="28252000" />
+      <workItem from="1484191479665" duration="31598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28252000" />
+    <option name="totallyTimeSpent" value="31598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -377,6 +380,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
           <folding />
         </state>
       </provider>
