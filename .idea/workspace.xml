@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html" afterPath="$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html">
+      <file leaf-file-name="index-start.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="502">
-              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+              <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
         <option value="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" />
         <option value="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" />
+        <option value="$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html" />
       </list>
     </option>
   </component>
@@ -126,7 +127,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14 - JavaScript References VS Copying" />
+              <option name="myItemId" value="16 - Mouse Move Shadow" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -207,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="31598000" />
+      <workItem from="1484191479665" duration="33292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31598000" />
+    <option name="totallyTimeSpent" value="33292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -355,7 +356,7 @@
         <state relative-caret-position="60">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="62" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -396,6 +397,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
           <folding />
         </state>
       </provider>
