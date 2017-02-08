@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21 - Geolocation/index-START.html" afterPath="$PROJECT_DIR$/21 - Geolocation/index-START.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html" afterPath="$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/21 - Geolocation/index-START.html">
+        <entry file="file://$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="487">
-              <caret line="71" column="51" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -63,6 +62,7 @@
         <option value="$PROJECT_DIR$/18 - Adding Up Times with Reduce/index-START.html" />
         <option value="$PROJECT_DIR$/20 - Speech Detection/index-START.html" />
         <option value="$PROJECT_DIR$/21 - Geolocation/index-START.html" />
+        <option value="$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html" />
       </list>
     </option>
   </component>
@@ -135,7 +135,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="21 - Geolocation" />
+              <option name="myItemId" value="22 - Follow Along Link Highlighter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="39560000" />
+      <workItem from="1484191479665" duration="41032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39560000" />
+    <option name="totallyTimeSpent" value="41032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -446,6 +446,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="71" column="51" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
           <folding />
         </state>
       </provider>
