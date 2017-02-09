@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24 - Sticky Nav/index-START.html" afterPath="$PROJECT_DIR$/24 - Sticky Nav/index-START.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24 - Sticky Nav/style-START.css" afterPath="$PROJECT_DIR$/24 - Sticky Nav/style-START.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" afterPath="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24 - Sticky Nav/index-START.html">
+      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="66" column="42" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-START.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24 - Sticky Nav/style-START.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="562">
+              <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -77,6 +66,7 @@
         <option value="$PROJECT_DIR$/23 - Speech Synthesis/index-START.html" />
         <option value="$PROJECT_DIR$/24 - Sticky Nav/index-START.html" />
         <option value="$PROJECT_DIR$/24 - Sticky Nav/style-START.css" />
+        <option value="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" />
       </list>
     </option>
   </component>
@@ -149,7 +139,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="24 - Sticky Nav" />
+              <option name="myItemId" value="25 - Event Capture, Propagation, Bubbling and Once" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="45199000" />
+      <workItem from="1484191479665" duration="46758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45199000" />
+    <option name="totallyTimeSpent" value="46758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -480,6 +470,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/24 - Sticky Nav/style-START.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/24 - Sticky Nav/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -488,10 +486,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24 - Sticky Nav/style-START.css">
+    <entry file="file://$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="562">
+          <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
           <folding />
         </state>
       </provider>
