@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/29 - Countdown Timer/scripts-START.js" afterPath="$PROJECT_DIR$/29 - Countdown Timer/scripts-START.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 - Whack A Mole/index-START.html" afterPath="$PROJECT_DIR$/30 - Whack A Mole/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="scripts-START.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/29 - Countdown Timer/scripts-START.js">
+      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30 - Whack A Mole/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+            <state relative-caret-position="517">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,6 +69,7 @@
         <option value="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" />
         <option value="$PROJECT_DIR$/28 - Video Speed Controller/index-START.html" />
         <option value="$PROJECT_DIR$/29 - Countdown Timer/scripts-START.js" />
+        <option value="$PROJECT_DIR$/30 - Whack A Mole/index-START.html" />
       </list>
     </option>
   </component>
@@ -141,7 +142,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="29 - Countdown Timer" />
+              <option name="myItemId" value="30 - Whack A Mole" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="52020000" />
+      <workItem from="1484191479665" duration="54149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52020000" />
+    <option name="totallyTimeSpent" value="54149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -516,6 +517,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
           <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 - Whack A Mole/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
