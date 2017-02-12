@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263a75fd-19ac-42fd-acfe-b760e3271447" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15 - LocalStorage/index-START.html" afterPath="$PROJECT_DIR$/15 - LocalStorage/index-START.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html" afterPath="$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html" />
     </list>
     <ignored path="JavaScript30.iws" />
@@ -26,11 +27,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html">
+        <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="502">
+              <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+              <folding>
+                <marker date="1486937212000" expanded="true" signature="2968:3035" ph="..." />
+                <marker date="1486937212000" expanded="true" signature="2968:3167" ph="..." />
+                <marker date="1486937212000" expanded="true" signature="3120:3141" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +77,7 @@
         <option value="$PROJECT_DIR$/30 - Whack A Mole/index-START.html" />
         <option value="$PROJECT_DIR$/27 - Click and Drag/index-START.html" />
         <option value="$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html" />
+        <option value="$PROJECT_DIR$/15 - LocalStorage/index-START.html" />
       </list>
     </option>
   </component>
@@ -144,7 +150,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="26 - Stripe Follow Along Nav" />
+              <option name="myItemId" value="15 - LocalStorage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484191478452</updated>
-      <workItem from="1484191479665" duration="59040000" />
+      <workItem from="1484191479665" duration="62757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59040000" />
+    <option name="totallyTimeSpent" value="62757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="0" width="1222" height="796" extended-state="0" />
@@ -549,9 +555,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+        <state relative-caret-position="247">
+          <caret line="217" column="49" selection-start-line="217" selection-start-column="49" selection-end-line="217" selection-end-column="49" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 - LocalStorage/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+          <folding>
+            <marker date="1486937212000" expanded="true" signature="2968:3035" ph="..." />
+            <marker date="1486937212000" expanded="true" signature="2968:3167" ph="..." />
+            <marker date="1486937212000" expanded="true" signature="3120:3141" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
